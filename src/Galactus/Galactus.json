@@ -1,0 +1,10 @@
+{
+  "name": "Galactus",
+  "version": "1.0.0",
+  "gameTypes": ["classic", "1v1", "melee"],
+  "authors": ["putra"],
+  "description": "Bot Penghancur Galaksi",
+  "countryCodes": ["ID"],
+  "platform": ".Net 10",
+  "programmingLang": "C# 13"
+}
