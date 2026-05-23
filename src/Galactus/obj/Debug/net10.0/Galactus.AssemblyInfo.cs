@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Galactus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19a04318924319b09ad5997bcb3908f899291429")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8957d1883bfd741b824edc51cfe6274a3d78d33")]
 [assembly: System.Reflection.AssemblyProductAttribute("Galactus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Galactus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

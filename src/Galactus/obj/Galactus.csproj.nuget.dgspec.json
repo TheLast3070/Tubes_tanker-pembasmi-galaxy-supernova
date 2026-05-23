@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Galactus\\Galactus.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Galactus\\Galactus.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Galactus\\Galactus.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Galactus\\Galactus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Galactus\\Galactus.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Galactus\\Galactus.csproj",
         "projectName": "Galactus",
-        "projectPath": "c:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Galactus\\Galactus.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Galactus\\Galactus.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Galactus\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Galactus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
