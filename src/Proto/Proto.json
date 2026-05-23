@@ -1,0 +1,14 @@
+{
+  "name": "Proto",
+  "version": "99.0",
+  "authors": [
+    "MFT"
+  ],
+  "description": "Bergerak acak di sekitat arena dan menembak musuh yang terdeteksi sensor dan ada dalam jangkauan tembakan.",
+  "homepage": "",
+  "countryCodes": [
+    "id"
+  ],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# latest"
+}
