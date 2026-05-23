@@ -732,11 +732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\TPG\\TPG.csproj",
-      "projectName": "TPG",
-      "projectPath": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\TPG\\TPG.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\BotTheLast\\BotTheLast.csproj",
+      "projectName": "BotTheLast",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\BotTheLast\\BotTheLast.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\TPG\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\BotTheLast\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

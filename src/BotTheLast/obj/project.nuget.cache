@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b2gRLGzsh5U=",
+  "dgSpecHash": "42ZniWGOJEc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Proto\\Proto.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\BotTheLast\\BotTheLast.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.build.locator\\1.7.8\\microsoft.build.locator.1.7.8.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

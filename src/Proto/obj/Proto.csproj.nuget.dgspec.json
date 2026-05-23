@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\SRC\\Proto\\Proto.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Proto\\Proto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\SRC\\Proto\\Proto.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Proto\\Proto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\SRC\\Proto\\Proto.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Proto\\Proto.csproj",
         "projectName": "Proto",
-        "projectPath": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\SRC\\Proto\\Proto.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Proto\\Proto.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\SRC\\Proto\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\Kuliah\\Tubes Stima\\Repo\\Tubes_tanker-pembasmi-galaxy-supernova\\src\\Proto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

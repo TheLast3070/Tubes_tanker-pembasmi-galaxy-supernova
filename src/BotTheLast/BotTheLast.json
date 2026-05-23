@@ -1,0 +1,10 @@
+{
+  "name": "BotTheLast",
+  "version": "1.3",
+  "authors": ["TheLast"],
+  "description": "Bot uji coba pertama yang dibuat oleh TheLast/Baginda",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# latest"
+}
