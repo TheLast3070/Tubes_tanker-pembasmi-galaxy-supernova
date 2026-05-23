@@ -74,32 +74,17 @@ dotnet run
 Tubes_NamaKelompok/
 │
 ├── doc/
-│   └── Laporan_Tubes_Stima.pdf       # Dokumentasi Laporan Resmi Tugas Besar (PDF)
+│   └── Laporan_Tubes_Stima.pdf
 │
 ├── src/
-│   ├── TPG/                          # Direktori Kode Sumber Bot Utama
-│   │   ├── TPG.cs
-│   │   ├── TPG.csproj
-│   │   └── TPG.json
-│   │
-│   ├── BotTheLast/                   # Direktori Kode Sumber Bot Alternatif 1
-│   │   ├── BotTheLast.cs
-│   │   ├── BotTheLast.csproj
-│   │   └── BotTheLast.json
-│   │
-│   ├── Proto/                        # Direktori Kode Sumber Bot Alternatif 2
-│   │   ├── Proto.cs
-│   │   ├── Proto.csproj
-│   │   └── Proto.json
-│   │
-│   └── BotGwTuh/                     # Direktori Kode Sumber Bot Alternatif 3
-│       ├── BotGwTuh.cs
-│       ├── BotGwTuh.csproj
-│       └── BotGwTuh.json
+│   ├── TPG/ #Bot Utama
+│   ├── BotTheLast/ # Bot Alternatif 1
+│   ├── Proto/ # Bot Alternatif 2
+│   └── BotGwTuh/ # Bot Alternatif 3
 │
 └── README.md
 
 ## Anggota Kelompok 
-Baginda parulian Siregar - NIM 1 - [@usernameGitHub1]
-M FAATHIR - NIM 2 - [@usernameGitHub2]
-Daniel Putra Nugraha - NIM 3 - [@usernameGitHub3]
+Baginda parulian Siregar - 124140135 - [@TheLast3070]
+M FAATHIR - NIM 2 - [@MFT-0906]
+Daniel Putra Nugraha - NIM 3 - [@Soreyukii]
