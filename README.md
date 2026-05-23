@@ -1,13 +1,6 @@
 # Tugas Besar IF25-21013 Strategi Algoritma 2026
 > **Pemanfaatan Algoritma Greedy dalam Pembuatan Bot Permainan Robocode Tank Royale**
 
-1. [Deskripsi Program](#-deskripsi-program)
-2. [Spesifikasi Bot dan Strategi Greedy](#-spesifikasi-bot-dan-strategi-greedy)
-3. [Kebutuhan Perangkat Lunak (Prerequisites)](#-kebutuhan-perangkat-lunak-prerequisites)
-4. [Langkah Mengompilasi dan Menjalankan Bot](#-langkah-mengompilasi-dan-menjalankan-bot)
-5. [Struktur Repositori](#-struktur-repositori)
-6. [Anggota Kelompok](#-anggota-kelompok)
-
 ## Deskripsi Program
 Program ini merupakan proyek  bot tank virtual untuk game Robocode Tank Royale. Seluruh bot dikembangkan menggunakan bahasa pemrograman C# (.NET) dengan menerapkan variasi komponen Algoritma Greedy berbasis turn-by-turn. Proyek ini mencakup 1 bot utama terbaik (TPG) dan 3 bot alternatif dengan pendekatan fungsi heuristik yang unik dan berbeda satu sama lain demi mendominasi papan skor pertempuran (*Battle Royale*).
 
